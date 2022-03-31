@@ -57,6 +57,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'events.urls'
+ALLOWED_HOSTS=['adarsh-2000031905.herokuapp.com','127.0.0.1']
 
 TEMPLATES = [
     {
